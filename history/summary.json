@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-17": 57
+      "2022-02-17": 81
     }
   },
   {
@@ -30,11 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bradescard site Mx",
+    "url": "https://www.bradescard.com.mx",
+    "icon": "https://favicons.githubusercontent.com/www.bradescard.com.mx",
+    "slug": "bradescard-site-mx",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   }
 ]
