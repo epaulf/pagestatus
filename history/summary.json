@@ -1,7 +1,7 @@
 [
   {
     "name": "Bradescard TOL",
-    "url": "https://tramiteenlinea.bradescard.com.mx/#/",
+    "url": "https://tramiteenlinea.bradescard.com.mx/gateway/inspection",
     "icon": "https://favicons.githubusercontent.com/tramiteenlinea.bradescard.com.mx",
     "slug": "bradescard-tol",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-17": 35
+      "2022-02-17": 57
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   }
 ]
