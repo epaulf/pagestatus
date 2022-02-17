@@ -1,10 +1,10 @@
 [
   {
     "name": "Bradescard TOL",
-    "url": "https://tramiteenlinea.bradescard.com.mx/gateway/inspection",
+    "url": "https://tramiteenlinea.bradescard.com.mx",
     "icon": "https://favicons.githubusercontent.com/tramiteenlinea.bradescard.com.mx",
     "slug": "bradescard-tol",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-17": 81
+      "2022-02-17": 94
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bradescard.com.mx",
     "slug": "bradescard-site-mx",
     "status": "down",
-    "uptime": "92.87%",
-    "uptimeDay": "92.87%",
-    "uptimeWeek": "92.87%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "92.87%",
+    "uptime": "9.25%",
+    "uptimeDay": "9.25%",
+    "uptimeWeek": "9.25%",
+    "uptimeMonth": "9.25%",
+    "uptimeYear": "9.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-17": 0
+      "2022-02-17": 15
     }
   }
 ]
