@@ -4,7 +4,9 @@ repo: pagestatus # The name of this repository
 
 sites:
   - name: Bradescard TOL
-    url: https://tramiteenlinea.bradescard.com.mx/gateway/inspection
+    url: https://tramiteenlinea.bradescard.com.mx
+    expectedStatusCodes:
+    - 0
   - name: Paul Web
     url: http://epaul.dev/
   - name: Bradescard site Mx
