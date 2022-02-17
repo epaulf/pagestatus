@@ -11,6 +11,8 @@ sites:
     url: http://epaul.dev/
   - name: Bradescard site Mx
     url: https://www.bradescard.com.mx
+    expectedStatusCodes:
+    - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
