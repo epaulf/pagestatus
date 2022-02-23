@@ -6,13 +6,13 @@ sites:
   - name: Bradescard TOL
     url: https://tramiteenlinea.bradescard.com.mx
     expectedStatusCodes:
-    - 0
+    - 200
   - name: Paul Web
     url: http://epaul.dev/
   - name: Bradescard site Mx
     url: https://www.bradescard.com.mx
     expectedStatusCodes:
-    - 0
+    - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
