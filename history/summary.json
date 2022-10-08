@@ -34,19 +34,19 @@
     "url": "http://epaul.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/epaul.dev.ico",
     "slug": "paul-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 5102,
-    "timeWeek": 1412,
-    "timeMonth": 526,
+    "timeDay": 3449,
+    "timeWeek": 1271,
+    "timeMonth": 514,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-10-08": 0
+      "2022-10-08": 18
     }
   },
   {
