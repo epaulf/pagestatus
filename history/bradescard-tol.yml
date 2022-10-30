@@ -1,7 +1,7 @@
 url: https://tramiteenlinea.bradescard.com.mx
-status: up
-code: 200
-responseTime: 937
-lastUpdated: 2022-10-29T23:08:46.672Z
+status: down
+code: 503
+responseTime: 1162
+lastUpdated: 2022-10-30T21:58:22.372Z
 startTime: Thu Feb 17 2022 20:54:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
