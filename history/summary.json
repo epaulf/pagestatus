@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tramiteenlinea.bradescard.com.mx.ico",
     "slug": "bradescard-tol",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "86.74%",
+    "uptime": "99.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.11%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.79%",
     "time": 999,
-    "timeDay": 1019,
-    "timeWeek": 1034,
-    "timeMonth": 1026,
+    "timeDay": 1162,
+    "timeWeek": 1049,
+    "timeMonth": 1030,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2023-03-26": 191,
@@ -26,8 +26,7 @@
       "2022-09-21": 76,
       "2022-09-19": 59,
       "2022-06-14": 47,
-      "2022-06-07": 78,
-      "2022-03-28": 17
+      "2022-06-07": 78
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 130,
-    "timeWeek": 180,
-    "timeMonth": 214,
+    "time": 267,
+    "timeDay": 124,
+    "timeWeek": 166,
+    "timeMonth": 207,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2022-10-08": 18
@@ -62,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 593,
-    "timeDay": 337,
-    "timeWeek": 549,
-    "timeMonth": 528,
-    "timeYear": 612,
+    "timeDay": 477,
+    "timeWeek": 572,
+    "timeMonth": 535,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2023-02-15": 177,
       "2023-01-29": 87,
