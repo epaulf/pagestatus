@@ -4,7 +4,7 @@
     "url": "https://tramiteenlinea.bradescard.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/tramiteenlinea.bradescard.com.mx.ico",
     "slug": "bradescard-tol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1168,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2023-07-06": 0,
       "2023-04-13": 376,
       "2023-04-12": 1389,
       "2023-04-02": 22,
