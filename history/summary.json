@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1103,
-    "timeDay": 872,
-    "timeWeek": 2241,
-    "timeMonth": 1389,
+    "timeDay": 1111,
+    "timeWeek": 2068,
+    "timeMonth": 1388,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2023-08-03": 50,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 550,
-    "timeWeek": 247,
+    "timeDay": 253,
+    "timeWeek": 239,
     "timeMonth": 223,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2023-06-16": 25
     }
@@ -57,22 +57,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bradescard.com.mx.ico",
     "slug": "bradescard-site-mx",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 585,
-    "timeDay": 330,
-    "timeWeek": 487,
-    "timeMonth": 603,
+    "timeDay": 556,
+    "timeWeek": 507,
+    "timeMonth": 606,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2023-04-02": 21,
       "2023-02-15": 177,
       "2023-01-29": 87,
-      "2023-01-22": 348,
-      "2022-10-16": 45
+      "2023-01-22": 348
     }
   }
 ]
