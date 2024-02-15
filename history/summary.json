@@ -6,15 +6,15 @@
     "slug": "bradescard-tol",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "85.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.56%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.43%",
-    "time": 1326,
-    "timeDay": 2461,
-    "timeWeek": 2296,
-    "timeMonth": 2083,
-    "timeYear": 1484,
+    "time": 1327,
+    "timeDay": 1504,
+    "timeWeek": 2375,
+    "timeMonth": 1996,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2024-02-13": 261,
       "2024-02-12": 287,
@@ -25,8 +25,7 @@
       "2023-04-13": 376,
       "2023-04-12": 1389,
       "2023-04-02": 22,
-      "2023-03-26": 191,
-      "2023-02-15": 177
+      "2023-03-26": 191
     }
   },
   {
@@ -41,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 165,
-    "timeWeek": 195,
-    "timeMonth": 196,
+    "timeDay": 230,
+    "timeWeek": 205,
+    "timeMonth": 199,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2023-06-16": 25
@@ -61,13 +60,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 742,
-    "timeDay": 257,
-    "timeWeek": 3128,
-    "timeMonth": 1670,
-    "timeYear": 776,
+    "timeDay": 542,
+    "timeWeek": 3148,
+    "timeMonth": 1676,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-04-02": 21,
-      "2023-02-15": 177
+      "2023-04-02": 21
     }
   }
 ]
