@@ -52,19 +52,19 @@
     "url": "https://www.bradescard.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.bradescard.com.mx.ico",
     "slug": "bradescard-site-mx",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "40.47%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.84%",
     "time": 728,
-    "timeDay": 1084,
-    "timeWeek": 590,
-    "timeMonth": 497,
-    "timeYear": 766,
+    "timeDay": 834,
+    "timeWeek": 562,
+    "timeMonth": 492,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-04-05": 0
+      "2024-04-05": 857
     }
   }
 ]
