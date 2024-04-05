@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tramiteenlinea.bradescard.com.mx.ico",
     "slug": "bradescard-tol",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -52,17 +52,19 @@
     "url": "https://www.bradescard.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.bradescard.com.mx.ico",
     "slug": "bradescard-site-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 740,
-    "timeWeek": 471,
-    "timeMonth": 468,
-    "timeYear": 764,
-    "dailyMinutesDown": {}
+    "time": 728,
+    "timeDay": 1084,
+    "timeWeek": 590,
+    "timeMonth": 497,
+    "timeYear": 766,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   }
 ]
