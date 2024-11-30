@@ -34,9 +34,9 @@
     "url": "http://epaul.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/epaul.dev.ico",
     "slug": "paul-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,6 +46,7 @@
     "timeMonth": 278,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2024-11-30": 0,
       "2024-05-13": 20
     }
   },
