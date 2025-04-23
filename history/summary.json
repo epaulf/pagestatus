@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tramiteenlinea.bradescard.com.mx.ico",
     "slug": "bradescard-tol",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -32,9 +32,9 @@
     "url": "http://epaul.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/epaul.dev.ico",
     "slug": "paul-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -44,6 +44,7 @@
     "timeMonth": 408,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2024-11-30": 16,
       "2024-05-13": 20
     }
