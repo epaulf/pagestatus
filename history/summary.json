@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 861,
-    "timeDay": 191,
-    "timeWeek": 259,
-    "timeMonth": 240,
-    "timeYear": 800,
+    "time": 860,
+    "timeDay": 149,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-10-02": 29,
       "2025-10-30": 16,
       "2025-11-07": 45,
       "2025-11-22": 386,
@@ -35,7 +34,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/epaul.dev.ico",
     "slug": "paul-web",
     "status": "down",
-    "uptime": "68.84%",
+    "uptime": "68.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -46,7 +45,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-01": 248,
+      "2026-10-02": 242,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -409,8 +409,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -424,11 +423,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 635,
-    "timeWeek": 592,
-    "timeMonth": 1173,
-    "timeYear": 514,
+    "time": 542,
+    "timeDay": 232,
+    "timeWeek": 526,
+    "timeMonth": 1162,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   }
 ]
